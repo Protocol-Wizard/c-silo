@@ -2,7 +2,7 @@
 
 #include <stdio.h>
 
-void main() {
+void main(){
     int num;
     char ch;
     do{
